@@ -17,3 +17,6 @@ A fast CGPA Calculator Mobile App for University Students. Built in Rust and Sli
 
 ### Android
 Download the latest APK from [Releases] and install it.
+
+## Author 
+Emmanuel Idiong 
